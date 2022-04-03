@@ -1,0 +1,64 @@
+#home-commig {
+  height: 100%;
+  display: block;
+}
+
+.commingsoon {
+  height: 100%;
+  width: 100%;
+}
+
+.lemet-comming {
+  height: 100vh;
+}
+
+.elemet-comming {
+  margin: 20% 1%;
+}
+
+.cent {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+.commingsoon .heading {
+  font-style: normal;
+  font-stretch: normal;
+  font-family: "Poppins", sans-serif;
+  color: #fff;
+  font-weight: 600;
+  font-size: 50px;
+  line-height: 40px;
+  margin-top: 5rem;
+  text-align: center;
+}
+
+.some-text {
+  text-align: center;
+  font-style: normal;
+  font-stretch: normal;
+  font-family: "Poppins", sans-serif;
+  color: #fff;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 40px;
+}
+
+.btn-backhome {
+  min-width: 15vw;
+  padding: 1vw 1.6vw;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+  line-height: 1;
+  border-color: #fff;
+  color: #000;
+  background-color: #fff;
+  margin: 0px 10px;
+}

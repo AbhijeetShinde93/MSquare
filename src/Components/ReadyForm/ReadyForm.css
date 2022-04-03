@@ -1,0 +1,89 @@
+.Ready_from {
+  display: block;
+  margin-top: 4rem;
+  padding-top: 100px;
+  max-width: 1200px;
+}
+
+.form_title {
+  font-style: normal;
+  font-stretch: normal;
+  font-family: "Poppins", sans-serif;
+  color: #000;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 40px;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.form-para {
+  font-style: normal;
+  font-stretch: normal;
+  font-family: "Poppins", sans-serif;
+  color: #686868;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.form-label {
+  font-style: normal;
+  font-stretch: normal;
+  font-family: "Poppins", sans-serif;
+  color: #000;
+  font-weight: 400;
+  font-size: 16px;
+  margin-bottom: 0;
+}
+input {
+  font-style: normal;
+  font-stretch: normal;
+  font-family: "Poppins", sans-serif;
+  color: #000;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.form-control:focus {
+  box-shadow: none;
+}
+
+.btn-inquiry {
+  min-width: 15vw;
+  padding: 1vw 1.6vw;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  line-height: 1;
+  letter-spacing: normal;
+  background-color: #3dfd72;
+  color: #000;
+  border-radius: 10px;
+}
+
+.btn-inquiry:hover {
+  color: #000;
+}
+
+.thankmsg {
+  color: #3dfd72;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  font-family: "Poppins", sans-serif;
+  margin-top: 1rem;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media only screen and (min-device-width: 320px) and (-webkit-min-device-pixel-ratio: 2) {
+  .btn-inquiry {
+    padding: 6px 20px;
+    font-size: 18px;
+    padding: 3vw 3.6vw;
+  }
+}

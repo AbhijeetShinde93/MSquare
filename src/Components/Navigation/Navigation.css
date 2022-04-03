@@ -1,0 +1,129 @@
+/* .navigation {
+  width: 100%;
+  padding: 1rem 2rem;
+  background-color: #ffffff;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px,
+    rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
+}
+
+.comp_logo {
+  width: 100%;
+  height: 60px;
+  object-fit: contain;
+}
+
+.btn-Enquiry {
+  border-radius: 5px;
+  color: #000;
+  background-color: #3dfd72;
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  border-radius: 10px;
+}
+
+.btn-Enquiry:hover {
+  color: #fff;
+  background-color: #000;
+}
+
+.btn-Enquiry:active {
+  color: #fff;
+}
+
+.btn-Enquiry:focus {
+  box-shadow: none;
+}
+
+.navbar-light .navbar-nav .links {
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  color: #000000;
+  margin: 4px 10px;
+}
+
+.nav-link {
+  padding: 0;
+  color: #000000 !important;
+}
+
+.links:visited,
+.links:link {
+  border-bottom: 2px solid transparent;
+}
+
+.links:hover,
+.links:active {
+  border-bottom: 3px solid #3dfd72;
+}
+
+.navbar-expand-lg .navbar-nav .dropdown-menu {
+  border: none;
+}
+
+.sub-menu {
+  width: 430px;
+  box-shadow: 10px 10px 40px 0px rgb(23 30 41 / 10%);
+  padding: 15px 21px;
+}
+
+.menu-item {
+  border-bottom-style: none;
+  display: flex;
+  position: relative;
+  background: inherit;
+  margin-bottom: 8px;
+}
+
+.submenu-liks-sec {
+  display: flex;
+  flex-direction: column;
+  padding: 8px;
+}
+
+.submenu-liks-sec:hover {
+  background-color: #beffd1;
+}
+
+.submenu-liks-sec .link-text {
+  font-size: 18px;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  color: #000000;
+  margin-bottom: 5px;
+}
+
+.submenu-liks-sec .link-text-line {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+  color: #959aa1;
+  line-height: 1.2rem;
+  margin-bottom: 0px;
+}
+
+@media only screen and (min-device-width: 320px) and (-webkit-min-device-pixel-ratio: 2) {
+  #brand-logo {
+    font-size: 18px;
+  }
+
+  .sub-menu {
+    width: 300px;
+  }
+}
+@media only screen and (min-device-width: 768px) and (-webkit-min-device-pixel-ratio: 2) {
+  .sub-menu {
+    width: 425px;
+  }
+}
+
+@media only screen and (min-device-width: 992px) and (-webkit-min-device-pixel-ratio: 2) {
+}
+
+@media only screen and (min-width: 1200px) and (-webkit-min-device-pixel-ratio: 2) {
+}
+
+@media only screen and (min-width: 1400px) and (-webkit-min-device-pixel-ratio: 2) {
+} */

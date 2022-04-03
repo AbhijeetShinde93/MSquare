@@ -1,0 +1,82 @@
+.hero-wrap {
+  margin: 0 auto;
+  width: 70vw;
+}
+
+.hero-text {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 50px;
+  color: #000000;
+  margin-bottom: 20px;
+}
+
+.hero-subtext {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  font-size: 22px;
+  line-height: 1.52;
+  letter-spacing: normal;
+  color: #3e3e3e;
+  margin-bottom: 45px;
+  width: 100%;
+}
+
+.btn-hero-button {
+  min-width: 15vw;
+  padding: 1vw 1.6vw;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  line-height: 1.2;
+  letter-spacing: normal;
+  background-color: #3dfd72;
+  color: #000;
+  border-radius: 10px;
+  margin-bottom: 3rem;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media only screen and (min-device-width: 320px) and (-webkit-min-device-pixel-ratio: 2) {
+  .hero-wrap {
+    width: 100%;
+  }
+
+  .hero-text {
+    font-size: 1.8rem;
+    line-height: 34px;
+  }
+
+  .hero-subtext {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+
+  .btn-hero-button {
+    padding: 10px 25px;
+    font-size: 18px;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media only screen and (min-device-width: 768px) and (-webkit-min-device-pixel-ratio: 2) {
+}
+/* // Large devices (desktops, 992px and up) */
+@media only screen and (min-device-width: 992px) and (-webkit-min-device-pixel-ratio: 2) {
+}
+/* // X-Large devices (large desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) and (-webkit-min-device-pixel-ratio: 2) {
+  .hero-wrap {
+    width: 80vw;
+  }
+}
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media only screen and (min-width: 1400px) and (-webkit-min-device-pixel-ratio: 2) {
+}
